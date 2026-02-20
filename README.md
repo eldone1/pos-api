@@ -303,11 +303,11 @@ CMD ["node", "dist/main"]
 
 ## 📄 Licencia
 
-Este proyecto es privado y está bajo licencia UNLICENSED.
+Este proyecto es para uso libre.
 
 ## 👨‍💻 Autor
 
-Desarrollado con ❤️ para sistemas de punto de venta modernos
+Desarrollado con ❤️ para todos. By Diego Minaya y Cloude Code <3
 
 ## 📚 Recursos Adicionales
 
