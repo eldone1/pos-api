@@ -1,0 +1,19 @@
+----------------PRODUCTOS----------------
+POST /api/v1/products - Crear producto
+GET /api/v1/products - Listar todos
+GET /api/v1/products/active - Listar activos
+GET /api/v1/products/low-stock - Productos con stock bajo
+GET /api/v1/products/:id - Obtener uno
+GET /api/v1/products/sku/:sku - Buscar por SKU
+PATCH /api/v1/products/:id - Actualizar
+PATCH /api/v1/products/:id/stock - Actualizar stock
+DELETE /api/v1/products/:id - Eliminar
+
+
+-------------CATEGORIAS--------------------
+POST /api/v1/categories - Crear categoría
+GET /api/v1/categories - Listar todas
+GET /api/v1/categories/active - Listar activas
+GET /api/v1/categories/:id - Obtener una (con sus productos)
+PATCH /api/v1/categories/:id - Actualizar
+DELETE /api/v1/categories/:id - Eliminar
