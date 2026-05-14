@@ -307,7 +307,7 @@ Este proyecto es para uso libre.
 
 ## 👨‍💻 Autor
 
-Desarrollado con ❤️ para todos. By Diego Minaya y Cloude Code <3
+Desarrollado con ❤️ para todos. By Diego Minaya y Claude Code <3
 
 ## 📚 Recursos Adicionales
 
